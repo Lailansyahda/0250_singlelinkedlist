@@ -19,3 +19,8 @@ class LinkedList
         START = NULL;
     }
 }
+
+void addNode()
+    {
+        int nim;
+
